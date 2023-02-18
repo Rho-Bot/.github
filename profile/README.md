@@ -26,6 +26,7 @@ These are some short videos in which the robot solves the given tasks:
 ### Real robot
 * [Task 1](link)
 * [Task 2](link)
+
 Task 3 and 4 are missing because it would not feasible to solve them using a 3-finger gripper. Check the result in simulation environment instead.
 
 [Here](link) you can find the KPI for each task.

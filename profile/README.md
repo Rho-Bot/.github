@@ -1,5 +1,7 @@
 # PiJoint organization
 
+Final project for *Introduction to Robotics* course at the University of Trento.
+
 ## Authors
 
 This project has been developed by Maglie Francesco, Mizzaro Alessandro and Zaupa Alberto. Main contribution:
@@ -11,9 +13,9 @@ This project has been developed by Maglie Francesco, Mizzaro Alessandro and Zaup
 
 ## Presentation
 
-Here you can find a complete report [here](report).
+You can find a complete report [here](report).
 
-And some short video in which the robot solves the given tasks
+These are some short videos in which the robot solves the given tasks:
 
 ### Simulation
 * [Task 1](link)
@@ -26,6 +28,4 @@ And some short video in which the robot solves the given tasks
 * [Task 2](link)
 Task 3 and 4 are missing because it would not feasible to solve them using a 3-finger gripper. Check the result in simulation environment instead.
 
-
-
-
+[Here](link) you can find the KPI for each task.

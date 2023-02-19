@@ -13,7 +13,7 @@ This project has been developed by Maglie Francesco, Mizzaro Alessandro and Zaup
 
 ## Presentation
 
-You can find a complete report [here](report).
+You can find a complete report [here](https://github.com/PiJoint/.github/blob/c0e70e51a7e3f90850194614737159c48bb8a814/rhobot.pdf).
 
 These are some short videos in which the robot solves the given tasks:
 

@@ -8,7 +8,7 @@ This project has been developed by Maglie Francesco, Mizzaro Alessandro and Zaup
 
 * [Kinematics](https://github.com/PiJoint/kinematics) - Maglie Francesco and Zaupa Alberto
 
-* [Vision](https://github.com/PiJoint/vision) - Mizzaro Alessandro
+* [Vision](https://github.com/PiJoint/vision) ([Docs](https://pijoint.github.io/vision/))- Mizzaro Alessandro
 
 
 ## Presentation

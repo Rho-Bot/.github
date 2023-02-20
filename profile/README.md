@@ -30,4 +30,4 @@ These are some short videos in which the robot solves the given tasks:
 
 Task 3 and 4 are missing because it would not feasible to solve them using a 3-finger gripper. Check the result in simulation environment instead.
 
-[Here](https://github.com/PiJoint/.github/blob/aff5c1f586691f545a943c59b9ace7c1e575a44a/kpi.md) you can find the KPI for each task.
+[Here](https://github.com/PiJoint/.github/blob/main/kpi.md) you can find the KPI for each task.

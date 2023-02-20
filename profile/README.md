@@ -25,8 +25,8 @@ These are some short videos in which the robot solves the given tasks:
 * [Task 5](https://drive.google.com/file/d/1Lh0LkuJzD5pJzFgIm5w7D76btxFPLni-/view?usp=share_link) (POC of grasping procedure for a brick laying on floor)
 
 ### Real robot
-* [Task 1](link)
-* [Task 2](link)
+* [Task 1](https://drive.google.com/file/d/1byMInpfqK3e08bXOvK3dfaLifLhjyCl4/view?usp=share_link)
+* [Task 2](https://drive.google.com/file/d/10iPSe-9GrLAGQMs4c7AHCiJnt1atYlok/view?usp=share_link)
 
 Task 3 and 4 are missing because it would not feasible to solve them using a 3-finger gripper. Check the result in simulation environment instead.
 

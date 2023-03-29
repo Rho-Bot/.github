@@ -1,4 +1,4 @@
-# PiJoint organization
+# $\rho bot$ organization
 
 Final project for *Introduction to Robotics* course at the University of Trento.
 
@@ -6,14 +6,14 @@ Final project for *Introduction to Robotics* course at the University of Trento.
 
 This project has been developed by Maglie Francesco, Mizzaro Alessandro and Zaupa Alberto. Main contribution:
 
-* [Kinematics](https://github.com/PiJoint/kinematics) - Maglie Francesco and Zaupa Alberto
+* [Kinematics](https://github.com/Rho-Bot/kinematics) - Maglie Francesco and Zaupa Alberto
 
-* [Vision](https://github.com/PiJoint/vision) ([Docs](https://pijoint.github.io/vision/))- Mizzaro Alessandro
+* [Vision](https://github.com/Rho-Bot/vision) ([Docs](https://pijoint.github.io/vision/))- Mizzaro Alessandro
 
 
 ## Presentation
 
-You can find a complete report [here](https://github.com/PiJoint/.github/blob/c0e70e51a7e3f90850194614737159c48bb8a814/rhobot.pdf).
+You can find a complete report [here](https://github.com/Rho-Bot/.github/blob/c0e70e51a7e3f90850194614737159c48bb8a814/rhobot.pdf).
 
 These are some short videos in which the robot solves the given tasks:
 
@@ -30,4 +30,4 @@ These are some short videos in which the robot solves the given tasks:
 
 Task 3 and 4 are missing because it would not feasible to solve them using a 3-finger gripper. Check the result in simulation environment instead.
 
-[Here](https://github.com/PiJoint/.github/blob/main/kpi.md) you can find the KPI for each task.
+[Here](https://github.com/Rho-Bot/.github/blob/main/kpi.md) you can find the KPI for each task.

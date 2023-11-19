@@ -18,15 +18,15 @@ You can find a complete report [here](https://github.com/Rho-Bot/.github/blob/c0
 These are some short videos in which the robot solves the given tasks:
 
 ### Simulation
-* [Task 1](https://drive.google.com/file/d/1u2TUx-mUK28IfNWy0ItYKB3EjjXxG2_W/view?usp=share_link)
-* [Task 2](https://drive.google.com/file/d/1Ks8CZbohPYnA6k6dQLo3DWOuSQ5a-EOI/view?usp=share_link)
-* [Task 3](https://drive.google.com/file/d/1W11hGWN_4gtHUshdAIUyurBVpIOGLbQP/view?usp=share_link)
-* [Task 4](https://drive.google.com/file/d/1SEmpk7_d9lO26YRXSuo0aKF0_ojKqugH/view?usp=share_link)
-* [Task 5](https://drive.google.com/file/d/1Lh0LkuJzD5pJzFgIm5w7D76btxFPLni-/view?usp=share_link) (POC of grasping procedure for a brick laying on floor)
+* [Task 1](https://drive.google.com/file/d/1BKMaLieDkFhBrMUxvjK_bg5v-2zFo2ZF/view?usp=share_link)
+* [Task 2](https://drive.google.com/file/d/1RrEHv9akR9OolWPKvbE4TiQttDtTM57G/view?usp=share_link)
+* [Task 3](https://drive.google.com/file/d/1s64pNp34YsSR2CwPcz2veU0Sb_Z6Ckns/view?usp=share_link)
+* [Task 4](https://drive.google.com/file/d/1gpKge2LIdExGc6Swioz9uP0tfu7UE5Bw/view?usp=share_link)
+* [Task 5](https://drive.google.com/file/d/1UQSwOpaFhHF34eEMkitc1ASfcidDRYM-/view?usp=share_link) (POC of grasping procedure for a brick laying on floor)
 
 ### Real robot
-* [Task 1](https://drive.google.com/file/d/1byMInpfqK3e08bXOvK3dfaLifLhjyCl4/view?usp=share_link)
-* [Task 2](https://drive.google.com/file/d/10iPSe-9GrLAGQMs4c7AHCiJnt1atYlok/view?usp=share_link)
+* [Task 1](https://drive.google.com/file/d/1uZKQXF_KxcS3AWXWhE-YrTMOozLiCPXo/view?usp=share_link)
+* [Task 2](https://drive.google.com/file/d/1IoJz0R3Ig_rrL4yjNJOV19S_F5vdsmTX/view?usp=share_link)
 
 Task 3 and 4 are missing because it would not feasible to solve them using a 3-finger gripper. Check the result in simulation environment instead.
 
